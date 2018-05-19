@@ -1,3 +1,3 @@
 # best store ecommerce
 
-* import ecommerce.sql
+* import ecommerce.sql to your database
